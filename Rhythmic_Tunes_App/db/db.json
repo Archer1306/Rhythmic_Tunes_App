@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "BLUE",
+      "singer": "Yung Kai",
+      "genre": "Romantic",
+      "imgUrl": "Songs/blue.webp",
+      "songUrl": "Songs/Blue.mp3"
+    },
+    {
+      "id": "2",
+      "title": "ALL THE STARS",
+      "singer": "Kendrick and SZA",
+      "genre": "Emotional",
+      "imgUrl": "Songs/all the stars.jpg",
+      "songUrl": "Songs/All The Stars.mp3"
+    },
+    {
+      "id": "3",
+      "title": "CHANNA MEREYA",
+      "singer": "Arijit Singh",
+      "genre": "Hindi",
+      "imgUrl": "Songs/channa mereya.jpg",
+      "songUrl": "Songs/Channa Mereya.mp3"
+    },
+  
+    {
+      "id": "5",
+      "title": "Nilave Vaa",
+      "singer": "Mohan,Ilaiyaraja",
+      "genre": "Tamil,Romantic",
+      "imgUrl": "Songs/nilave vaa.jpg",
+      "songUrl": "Songs/Nila.mp3"
+    }
+  ],
+  "favorities": [],
+  "playlist": []
+}
